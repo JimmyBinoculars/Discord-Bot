@@ -6,7 +6,7 @@ Just a repo for a bot I am making.
 2. Clone or download this repo
 3. run ```npm install discord.js``` in the project folder
 4. Rename ```config.example.json``` to ```config.json``` and change token to your discord api token
-5. run ```node main.js``` and it should start working
+5. run ```npm run start``` and it should start working
 ## Discord API setup
 1. Go to the developer <a href="https://discord.com/developers/applications">portal</a>
 2. Click on "New Application"
