@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "discord.js": "^14.11.0"
-  }
-  "scripts": {
-    "start": "node main.js"
-  }
-}
