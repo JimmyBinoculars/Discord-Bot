@@ -9,7 +9,7 @@ Just a repo for a bot I am making.
 5. run ```npm run start``` and it should start working
 ## Discord API setup
 1. Go to the <a href="https://discord.com/developers/applications">developer portal</a>
-2. Click on "New Application"
+2. Click on ```New Application```
 3. Give it a name
-4. Click on your new app then click on "bot" and click "new bot"
+4. Click on your new app then click on ```bot``` and click ```new bot```
 5. Then reset your token and copy it to get it
